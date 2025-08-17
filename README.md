@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning about programming languages and o
 - various operating systems
 - 💞️ I’m looking to collaborate on anything that can improve my knowledge 
-- 📫 How to reach me charithpenugonda@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me charithpenugonda@gmail.com 
 
 <!---
 charith-Penugonda/charith-Penugonda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
